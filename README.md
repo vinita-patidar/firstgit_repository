@@ -15,3 +15,10 @@ file chnages saved ,added and commit:unmodified-->
 
 <!-- add : add new or changed file in your working directory to the git staging area
 command : git add file-name -->
+
+
+<!-- commit : it is the recod of changes
+command :  git commit -m "some msg" -->
+
+<!-- push : to upload local repo content to remote repo
+command : git push origin main -->
