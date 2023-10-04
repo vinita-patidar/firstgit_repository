@@ -22,3 +22,24 @@ command :  git commit -m "some msg" -->
 
 <!-- push : to upload local repo content to remote repo
 command : git push origin main -->
+
+
+<!-- init : used to create a new git repo
+commands:
+git init 
+i=git remote add origin <-link-> 
+git remote -v (to verify remote)
+git branch (to check branch)
+git branch -M main (to rename branch)
+gi push origin main 
+-->
+
+
+
+<!-- work flow  : local git
+github repo
+clone
+changes
+add
+commit
+push -->
